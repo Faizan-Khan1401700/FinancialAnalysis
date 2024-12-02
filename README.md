@@ -1,6 +1,6 @@
 # Financial Dashboard in Power BI
 
-This repository contains an interactive **Financial Dashboard** built using Power BI. The dashboard provides detailed insights into financial performance through advanced visualizations and dynamic features, providing a comprehensive tool for financial analysis and decision-making.
+This repository contains an interactive **Financial Dashboard** built using Power BI. The dashboard provides detailed insights into financial performance through advanced visualizations and dynamic features, providing a comprehensive tool for financial analysis and decision-making. We have made two financial dashboards with different types of visualizations for the same data itself.
 
 ---
 
@@ -107,6 +107,8 @@ Based on the insights, the following actions are recommended:
 
 ## Screenshots
 
+### 1. DASHBOARD 1:
+
 ### Main Dashboard
 ![Main Dashboard](https://github.com/user-attachments/assets/0e4ffaef-038f-4e2a-bb9b-91707ca21df0)
 
@@ -136,6 +138,22 @@ Based on the insights, the following actions are recommended:
 
 ![KeyInfluencers2](https://github.com/user-attachments/assets/65ed1854-dcfe-48d4-8a00-5d12e3ce9d50)
 
+
+### 2. DASHBOARD 2:
+
+![Homepage](https://github.com/user-attachments/assets/f369703c-c4d5-4e04-b97d-00d3f198d7d3)
+
+
+
+
+![Map](https://github.com/user-attachments/assets/91502df9-1bee-4ecc-b0e3-fcabaeded802)
+
+
+
+![Summary](https://github.com/user-attachments/assets/f5883e23-e825-4724-ae5c-5a9267b51838)
+
+
+![Decompositiontree](https://github.com/user-attachments/assets/55e0a42b-d8d6-45d1-8883-40e292817636)
 
 ---
 
